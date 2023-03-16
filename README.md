@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 
-<body>
-
 ## Fale comigo
 ![Linkedin Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/hugo-dias95/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.dias222@gmail.com)
@@ -15,25 +13,8 @@
 
 ## O que usei até agora...
 
-<table><tr><td valign="center" width="100%">
-<div valign="center">
 
-[![Center Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodias95&layout=compact&theme=dark)](https://github.com/Hugodias95)
-
-</div>
-</td></tr></table>
-
-
-</body>
-
-<table><tr><td valign="top" width="50%">
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Hugodias95&custom_title=Status&show_icons=true&count_private=true&hide_border=true&theme=cobalt" valign="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://streak-stats.demolab.com/?user=Hugodias95&theme=cobalt&hide_border=true" valign="left" style="width: 100%" />
-</div>
-
-</td></tr></table>
+<p>
+    <a href="https://github.com/othiagomacedo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagomacedo&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="othiagomacedo :: Top Langs" /></a>
+    <a href="https://github.com/othiagomacedo"><img src="https://github-readme-stats.vercel.app/api?username=othiagomacedo&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="othiagomacedo :: Profile Stats" /></a>
+</p>
