@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <body>
+### Estudante de Engenharia de Software:
 
+- 🔭 Atualmente estou estudando <strong>Java</strong> e <strong>desenvolvimento FullStack</strong>
+- 🌱 Estou fazendo um curso de <strong>JavaScript, TypeScript e Angular</strong>, mantendo toda a evolução em um repositório aqui no GitHub
+- 🔍 Tenho conhecimento na plataforma No-Code/Low-Code <strong>Mendix</strong>
+- ⚡ Ainda cursando faculdade na FATESG, <strong>3º período</strong>
+
+### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
+
+<img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="hugo.dias222@gmail.com">     <a href="https://www.linkedin.com/in/hugo-dias95/"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 </body>
 
 <table><tr><td valign="top" width="50%">
@@ -9,6 +18,6 @@
 
 </td><td valign="top" width="50%">
 
-<img align="center" src="https://camo.githubusercontent.com/fd10278a342bdaaaeda11e5d9e2c3410aa9ee0e85194e868af9b9e622d269509/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726168756c6b6172646126686964653d6c657373267469746c655f636f6c6f723d64313339373926746578745f636f6c6f723d6339636163632669636f6e5f636f6c6f723d3262626338612662675f636f6c6f723d316431663231266c616e67735f636f756e743d33" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodias95&amp;hide=less&amp;title_color=d13979&amp;text_color=c9cacc&amp;icon_color=2bbc8a&amp;bg_color=1d1f21&amp;langs_count=3" style="max-width: 100%;">
+<img src="https://streak-stats.demolab.com/?user=Hugodias95&theme=cobalt&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>
