@@ -15,11 +15,13 @@
 
 ## O que usei até agora...
 
+<table><tr><td valign="top" width="50%">
 <div valign="center">
 
 [![Center Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodias95&layout=compact&theme=dark)](https://github.com/Hugodias95)
 
 </div>
+</td></tr></table>
 
 
 </body>
