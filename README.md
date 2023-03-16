@@ -17,7 +17,7 @@
 
 <div valign="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodias95&layout=compact&theme=dark)](https://github.com/Hugodias95)
+[![Center Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodias95&layout=compact&theme=dark)](https://github.com/Hugodias95)
 
 </div>
 
