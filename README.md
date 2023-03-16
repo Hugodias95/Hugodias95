@@ -16,10 +16,8 @@
 ## O que usei até agora...
 
 <div valign="center">
-<center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodias95&layout=compact&theme=dark)](https://github.com/Hugodias95)
-</center>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodias95&layout=compact&theme=dark)](https://github.com/Hugodias95)
 
 </div>
 
