@@ -11,7 +11,7 @@
 - 🔭 Atualmente estou estudando <strong>Java</strong> e <strong>desenvolvimento FullStack</strong>
 - 🌱 Estou fazendo um curso de <strong>JavaScript, TypeScript e Angular</strong>, mantendo toda a evolução em um repositório aqui no GitHub
 - 🔍 Tenho conhecimento na plataforma No-Code/Low-Code <strong>Mendix</strong>
-- ⚡ Ainda cursando faculdade na FATESG, <strong>3º período</strong>
+- ⚡ Cursando Engenharia de Software na faculdade FATESG, <strong>3º período</strong>
 
 ## O que usei até agora...
 
