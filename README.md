@@ -15,7 +15,7 @@
 
 ## O que usei até agora...
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="100%">
 <div valign="center">
 
 [![Center Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugodias95&layout=compact&theme=dark)](https://github.com/Hugodias95)
