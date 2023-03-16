@@ -22,11 +22,13 @@
 
 <table><tr><td valign="top" width="50%">
 
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=Hugodias95&custom_title=Status&show_icons=true&count_private=true&hide_border=true&theme=cobalt" valign="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
 <img src="https://streak-stats.demolab.com/?user=Hugodias95&theme=cobalt&hide_border=true" valign="left" style="width: 100%" />
+</div>
 
 ## Fale comigo
 
