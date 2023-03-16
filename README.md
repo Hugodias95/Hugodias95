@@ -2,7 +2,7 @@
 
 <body>
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/hugo-dias95/) 
+![Linkedin Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/hugo-dias95/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.dias222@gmail.com)
 
 ### Estudante de Engenharia de Software:
