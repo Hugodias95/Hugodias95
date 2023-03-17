@@ -15,6 +15,6 @@
 
 
 <p>
-    <a href="https://github.com/othiagomacedo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagomacedo&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="othiagomacedo :: Top Langs" /></a>
-    <a href="https://github.com/othiagomacedo"><img src="https://github-readme-stats.vercel.app/api?username=othiagomacedo&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="othiagomacedo :: Profile Stats" /></a>
+    <a href="https://github.com/Hugodias95"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagomacedo&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="Hugodias95 :: Top Langs" /></a>
+    <a href="https://github.com/Hugodias95"><img src="https://github-readme-stats.vercel.app/api?username=othiagomacedo&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="Hugodias95 :: Profile Stats" /></a>
 </p>
